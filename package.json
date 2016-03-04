@@ -1,0 +1,33 @@
+{
+  "name": "salon",
+  "version": "1.0.0",
+  "description": "payment system for internal use",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKA1840/salon.git"
+  },
+  "keywords": [
+    "Mongodb",
+    "Express",
+    "Angular",
+    "Node"
+  ],
+  "author": "luodong_zju@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKA1840/salon/issues"
+  },
+  "homepage": "https://github.com/AKA1840/salon#readme",
+  "dependencies": {
+    "angular": "1.4.9",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-material": "^1.0.5",
+    "express": "4.13.4",
+    "ui-router": "^0.2.15"
+  }
+}

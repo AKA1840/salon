@@ -1,0 +1,19 @@
+.login-page {
+	padding-top: 100px;
+	background: url('assets/images/snow.jpg');
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+.login-form-panel {
+	width: 300px;
+	height: 350px;
+	margin: 0 auto;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.login-button {
+	width: 95%;
+}
